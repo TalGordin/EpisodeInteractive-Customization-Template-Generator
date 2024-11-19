@@ -1,0 +1,173 @@
+{
+  "bodyColor_light": {
+    "displayName": "light skin tones"
+  },
+  "bodyColor_medium": {
+    "displayName": "medium skin tones"
+  },
+  "bodyColor_dark": {
+    "displayName": "dark skin tones"
+  },
+  "bodyColor_ash": {
+    "displayName": "ashen skin tones"
+  },
+  "bodyColor_copper": {
+    "displayName": "copper skin tones"
+  },
+  "bodyColor_gold": {
+    "displayName": "golden skin tones"
+  },
+  "bodyColor_neutral": {
+    "displayName": "neutral skin tones"
+  },
+  "bodyColor_rose": {
+    "displayName": "rose skin tones"
+  },
+  "hair_short": {
+    "displayName": "short hairstyles"
+  },
+  "hair_medium": {
+    "displayName": "medium-length hairstyles"
+  },
+  "hair_long": {
+    "displayName": "long hairstyles"
+  },
+  "hair_updo": {
+    "displayName": "updo hairstyles"
+  },
+  "hair_straight": {
+    "displayName": "straight hairstyles"
+  },
+  "hair_wavy": {
+    "displayName": "wavy hairstyles"
+  },
+  "hair_curly": {
+    "displayName": "curly hairstyles"
+  },
+  "hair_coily": {
+    "displayName": "coily hairstyles"
+  },
+  "hairColor_natural": {
+    "displayName": "natural hair colors"
+  },
+  "hairColor_dyed": {
+    "displayName": "dyed hair colors"
+  },
+  "hairColor_blacks": {
+    "displayName": "black hair colors"
+  },
+  "hairColor_browns": {
+    "displayName": "brown hair colors"
+  },
+  "hairColor_blonds": {
+    "displayName": "blond hair colors"
+  },
+  "hairColor_reds": {
+    "displayName": "red hair colors"
+  },
+  "hairColor_pinks": {
+    "displayName": "pink hair colors"
+  },
+  "hairColor_blues": {
+    "displayName": "blue hair colors"
+  },
+  "hairColor_purples": {
+    "displayName": "purple hair colors"
+  },
+  "hairColor_greens_yellows": {
+    "displayName": "green/yellow hair colors"
+  },
+  "hairColor_whites_grays": {
+    "displayName": "white/gray hair colors"
+  },
+  "face_smooth": {
+    "displayName": "smooth face shapes"
+  },
+  "face_hairy": {
+    "displayName": "hairy face shapes"
+  },
+  "face_mature": {
+    "displayName": "mature face shapes"
+  },
+  "eyes_double_eyelid": {
+    "displayName": "double eyelid eyes"
+  },
+  "eyes_monolid": {
+    "displayName": "monolid eyes"
+  },
+  "eyesColor_natural": {
+    "displayName": "natural eye colors"
+  },
+  "eyesColor_fantasy": {
+    "displayName": "fantasy eye colors"
+  },
+  "eyesColor_brown": {
+    "displayName": "brown eye colors"
+  },
+  "eyesColor_blue": {
+    "displayName": "blue eye colors"
+  },
+  "eyesColor_green_gray": {
+    "displayName": "green/gray eye colors"
+  },
+  "eyebrowsColor_natural": {
+    "displayName": "natural eyebrow colors"
+  },
+  "eyebrowsColor_dyed": {
+    "displayName": "dyed eyebrow colors"
+  },
+  "eyebrowsColor_blacks": {
+    "displayName": "black eyebrow colors"
+  },
+  "eyebrowsColor_browns": {
+    "displayName": "brown eyebrow colors"
+  },
+  "eyebrowsColor_blonds": {
+    "displayName": "blond eyebrow colors"
+  },
+  "eyebrowsColor_reds": {
+    "displayName": "red eyebrow colors"
+  },
+  "eyebrowsColor_misc": {
+    "displayName": "miscellaneous eyebrow colors"
+  },
+  "mouth_thin": {
+    "displayName": "thin lip shapes"
+  },
+  "mouth_full": {
+    "displayName": "full lip shapes"
+  },
+  "mouth_human": {
+    "displayName": "lip shapes - human fangs"
+  },
+  "mouth_vampire": {
+    "displayName": "lip shapes - vampire fangs"
+  },
+  "mouthColor_natural": {
+    "displayName": "natural lip colors"
+  },
+  "mouthColor_gloss": {
+    "displayName": "glossy lip colors"
+  },
+  "mouthColor_matte": {
+    "displayName": "matte lip colors"
+  },
+  "mouthColor_nudes": {
+    "displayName": "nude lip colors"
+  },
+  "mouthColor_browns": {
+    "displayName": "brown lip colors"
+  },
+  "mouthColor_reds": {
+    "displayName": "red lip colors"
+  },
+  "mouthColor_pinks": {
+    "displayName": "pink lip colors"
+  },
+  "mouthColor_purples": {
+    "displayName": "purple lip colors"
+  },
+  "mouthColor_misc": {
+    "displayName": "miscellaneous lip colors"
+  }
+}
